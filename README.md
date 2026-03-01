@@ -1,4 +1,4 @@
-# AI Sales Forecasting Backend
+# AI Sales Forecasting Backend API
 
 This repository contains a **FastAPI backend** for training and predicting sales using a simple AI/ML model. 
 It allows uploading CSV sales data, training a Simple Linear Regression model, and generating future forecasts.
